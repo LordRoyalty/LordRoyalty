@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a computer engineering student
 -->
+
+Just a computer engineering student trying useful/helpful things
