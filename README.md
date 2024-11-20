@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a computer engineering student
 -->
 
-Just a computer engineering student trying useful/helpful things
+Just a computer engineering student trying to do useful/helpful things
